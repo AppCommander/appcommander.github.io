@@ -2,6 +2,13 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.05.5 (2026-01-27)
+
+### Security Improvements
+- Migrate credential storage to macOS Keychain (replaces custom AES encryption)
+- Sanitize file rename input to prevent path traversal
+- Remove user email from log output (PII privacy fix)
+
 ## 2026.05.4 (2026-01-26)
 
 ### New Features
