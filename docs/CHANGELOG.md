@@ -2,6 +2,11 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.05.7 (2026-01-27)
+
+### Fixes
+- Fix same-panel drag-and-drop creating unwanted file copies
+
 ## 2026.05.6 (2026-01-27)
 
 ### New Features
