@@ -2,6 +2,12 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.05.6 (2026-01-27)
+
+### New Features
+- Built-in terminal with SwiftTerm integration (SSH auto-login, SFTP panel sync)
+- Configurable parallel transfer threshold setting
+
 ## 2026.05.5 (2026-01-27)
 
 ### Security Improvements
