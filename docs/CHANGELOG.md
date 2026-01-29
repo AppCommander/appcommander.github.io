@@ -2,6 +2,18 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.05.8 (2026-01-29)
+
+### New Features
+- Slow double-click to rename files inline (like Finder)
+- Permanent delete with ⇧⌘⌫ keyboard shortcut (bypass Trash)
+- Swap panels with ⌘U keyboard shortcut
+- Clickable path display for both panels in status bar
+
+### Improvements
+- Increased max font scale to 300%
+- Preferences window widened to fit all tabs
+
 ## 2026.05.7 (2026-01-27)
 
 ### Fixes
