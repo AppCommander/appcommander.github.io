@@ -115,9 +115,8 @@ Saved connections with optional default paths.
 
 | | Evaluation | Licensed |
 |--|------------|----------|
-| Duration | 60 days | Lifetime |
+| Duration | 60 days with updates, then unlimited without | Unlimited with 2 years of updates |
 | Features | Full | Full |
-| Updates | 60 days | 2 years |
 | Price | Free | €9.99 |
 
 > **Note:** After the evaluation period, the app continues to work but won't receive updates.
