@@ -113,12 +113,14 @@ Saved connections with optional default paths.
 
 ## Pricing
 
-| | Free Trial | Licensed |
+| | Evaluation | Licensed |
 |--|------------|----------|
 | Duration | 60 days | Lifetime |
 | Features | Full | Full |
-| Updates | ✓ | 1 year |
+| Updates | 60 days | 2 years |
 | Price | Free | €9.99 |
+
+> **Note:** After the evaluation period, the app continues to work but won't receive updates.
 
 [Purchase License](https://appcommander.pro) · [Activate License](https://appcommander.pro/activate)
 
