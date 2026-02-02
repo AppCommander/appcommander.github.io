@@ -4,7 +4,7 @@
 
 A powerful, keyboard-driven file manager for macOS. Navigate, copy, move, and manage files with maximum efficiency.
 
-[![Download](https://img.shields.io/badge/Download-v2026.05.4-blue)](https://appcommander.pro/releases/AppCommander-2026.05.4.dmg)
+[![Download](https://img.shields.io/badge/Download-v2026.06.1-blue)](https://appcommander.pro/releases/AppCommander-2026.06.1.dmg)
 [![Platform](https://img.shields.io/badge/Platform-macOS%2013%2B-lightgrey)](https://appcommander.pro)
 [![License](https://img.shields.io/badge/License-Commercial-orange)](https://appcommander.pro)
 
@@ -25,7 +25,7 @@ A powerful, keyboard-driven file manager for macOS. Navigate, copy, move, and ma
 
 | Version | Date | Size | Link |
 |---------|------|------|------|
-| 2026.05.4 | 2026-01-26 | 14 MB | [Download DMG](https://appcommander.pro/releases/AppCommander-2026.05.4.dmg) |
+| 2026.06.1 | 2026-02-02 | 14 MB | [Download DMG](https://appcommander.pro/releases/AppCommander-2026.06.1.dmg) |
 
 ### System Requirements
 
@@ -124,16 +124,19 @@ Saved connections with optional default paths.
 
 ## Changelog
 
+### 2026.06.1 (2026-02-02)
+- Flat view mode (⌘B) - Show all files recursively
+- Batch rename (⇧⌘R) - Rename multiple files with patterns
+- Enhanced license validation with offline support
+- Automatic update check on app launch
+
+### 2026.05.8 (2026-01-29)
+- Slow double-click to rename files inline
+- Permanent delete with ⇧⌘⌫
+- Swap panels with ⌘U
+
 ### 2026.05.4 (2026-01-26)
 - Column resize modes: Horizontal Scroll, Fit to Panel, Fit with Wrap
-
-### 2026.05.3 (2026-01-26)
-- Fixed panel content alignment
-
-### 2026.05.1 (2026-01-26)
-- Initial public release
-- Sparkle auto-update support
-- Licensing system
 
 [Full Changelog](docs/CHANGELOG.md)
 
