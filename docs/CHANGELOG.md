@@ -2,6 +2,26 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.06.1 (2026-02-02)
+
+### New Features
+- **Flat view mode** (⌘B) - Show all files from subfolders in a single list
+- **Batch rename** (⇧⌘R) - Rename multiple files at once
+  - Find & replace text
+  - Add prefix or suffix
+  - Sequential numbering
+  - Change case (upper/lower/title)
+  - Live preview before applying
+- Automatic update check on app launch
+
+### Security
+- Enhanced license validation with improved offline support
+- Improved archive extraction security
+
+### Fixes
+- Fix dragging multiple files to external applications
+- Fix zip file handling for special characters in filenames
+
 ## 2026.05.8 (2026-01-29)
 
 ### New Features
