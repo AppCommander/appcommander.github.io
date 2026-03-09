@@ -4,7 +4,7 @@
 
 A powerful, keyboard-driven file manager for macOS. Navigate, copy, move, and manage files with maximum efficiency.
 
-[![Download](https://img.shields.io/badge/Download-v2026.06.1-blue)](https://appcommander.pro/releases/AppCommander-2026.06.1.dmg)
+[![Download](https://img.shields.io/badge/Download-v2026.11.10-blue)](https://appcommander.pro/releases/AppCommander-2026.11.10.dmg)
 [![Platform](https://img.shields.io/badge/Platform-macOS%2013%2B-lightgrey)](https://appcommander.pro)
 [![License](https://img.shields.io/badge/License-Commercial-orange)](https://appcommander.pro)
 
@@ -25,6 +25,7 @@ A powerful, keyboard-driven file manager for macOS. Navigate, copy, move, and ma
 
 | Version | Date | Size | Link |
 |---------|------|------|------|
+| 2026.11.10 | 2026-03-09 | 14 MB | [Download DMG](https://appcommander.pro/releases/AppCommander-2026.11.10.dmg) |
 | 2026.06.1 | 2026-02-02 | 14 MB | [Download DMG](https://appcommander.pro/releases/AppCommander-2026.06.1.dmg) |
 
 ### System Requirements
@@ -124,6 +125,12 @@ Saved connections with optional default paths.
 [Purchase License](https://appcommander.pro) · [Activate License](https://appcommander.pro/activate)
 
 ## Changelog
+
+### 2026.11.10 (2026-03-09)
+- Disk usage dialog with donut chart (click free space in status bar)
+- Open in Finder button in Path and Go to Folder dialogs
+- Finder-style left/right arrow navigation in list view
+- Tab bar hidden when only one tab is open
 
 ### 2026.06.1 (2026-02-02)
 - Flat view mode (⌘B) - Show all files recursively
