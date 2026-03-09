@@ -2,6 +2,17 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.11.10 (2026-03-09)
+
+### New Features
+- **Disk usage dialog** - Click free space in status bar to see a donut chart of disk usage
+- **Open in Finder** button in Path and Go to Folder dialogs
+- **Finder-style arrow key navigation** - Left arrow goes to parent directory, right arrow enters focused directory (list view)
+
+### Improvements
+- Hide tab bar when only one tab is open to reduce visual clutter
+- Fix shift+click range selection with filtered items
+
 ## 2026.06.1 (2026-02-02)
 
 ### New Features
