@@ -2,6 +2,18 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.23.1 (2026-06-05)
+
+### Reliability
+- **Safer file overwrites** — copying or moving a file onto an existing one no longer risks losing the original if the operation is interrupted. The existing file is kept until the new copy completes successfully.
+- **Remote operations report failures correctly** — over SFTP, a failed sudo delete/move/copy is no longer silently treated as success.
+
+### Improvements
+- Pressing Enter in the search field opens the focused item and clears the filter
+- The first matching item is auto-focused as you type, and its panel is activated
+- Smoother focus restoration when navigating with the arrow keys
+- Disk usage dialog shows a detailed per-folder breakdown
+
 ## 2026.11.10 (2026-03-09)
 
 ### New Features
