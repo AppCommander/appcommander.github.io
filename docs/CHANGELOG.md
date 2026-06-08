@@ -2,6 +2,22 @@
 
 Version format: `YEAR.WEEK.BUILD`
 
+## 2026.24 (2026-06-08)
+
+### SFTP
+- **Recursive folder transfers** — copy and move entire folders over SFTP, including nested subfolders.
+- **Data-loss hardening** — a transfer is verified complete before the source is removed, and overwrites are crash-safe.
+
+### Performance
+- Smoother browsing of large folders: icon caching plus cached sorting and filtering reduce stutter.
+
+### Fixes
+- Clicking a panel restores keyboard navigation after you've used the Filter field.
+
+### Other
+- Refined app icon that follows the macOS icon grid.
+- During the free trial, the app reports anonymous, pseudonymous usage analytics (no personal data, files, or hostnames; no third-party trackers) to help improve it. Licensed copies never send this; there's a first-run notice and an opt-out in Preferences ▸ License.
+
 ## 2026.23.1 (2026-06-05)
 
 ### Reliability
